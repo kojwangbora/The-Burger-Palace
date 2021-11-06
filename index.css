@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .child ul li{
@@ -169,7 +169,7 @@ header{
     padding: 15px 30px;
     border-radius: 15px;
 }
-/* Fourth sect*/
+     /* Fourth sect*/
 .sect2 {
     display: flex;
     background-color: #E1EBE6;

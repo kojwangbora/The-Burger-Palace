@@ -152,6 +152,10 @@ header{
     font-size: 32px;
     font-weight: 600;
 }
+.pr h5{
+    font-size: 20px;
+    font-weight: 500;
+}
 .pr{
     display: flex;
     justify-content: space-between;

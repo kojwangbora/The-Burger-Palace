@@ -163,7 +163,7 @@ header{
     padding: 15px 30px;
     border-radius: 15px;
 }
-/* Fourth sect*/
+/* Fourth sect*/----->
 .sect2 {
     display: flex;
     background-color: #E1EBE6;
@@ -190,6 +190,7 @@ header{
 .sect2 div img{
     width: auto;
 }
+  /*fifth section*/------>
 .m-apps{
     display: flex;
     padding: 100px 5%;
@@ -240,6 +241,7 @@ header{
     padding-left: 15px;
     display: inline-block;
 }
+
 .footer-sec div input{
     padding: 10px 0px 0px 10px;
     border-radius: 10px 0px 0px 0px;

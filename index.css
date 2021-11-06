@@ -167,7 +167,7 @@ header{
 .sect2 {
     display: flex;
     background-color: #E1EBE6;
-    padding: 100px 5% 100px 5%;
+    padding: 100px 5%;
     align-items: center;
 }
 .sect2 div {

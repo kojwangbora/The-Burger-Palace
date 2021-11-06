@@ -25,10 +25,7 @@ header{
     text-decoration: none;
     font-size: 18px;
 }
-.ul img{
-    position: relative;
-    height: 10px;
-}
+
 .child a::before{
     content: '';
     display: block;

@@ -12,7 +12,7 @@ This a user friendly website that allows customers to order thier meails are the
 * in a simple
 * easy-to-understand
 ## Installation Process
-please click on the link to view my website:kojwangbora.github.io/the-burger-palace/
+please click on the link to view my website: https://kojwangbora.github.io/The-Burger-palace/
 ## Known Bugs
 no known bugs
 ## Technologies Used

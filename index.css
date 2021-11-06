@@ -192,7 +192,7 @@ header{
 }
 .m-apps{
     display: flex;
-    padding: 100px 5% 100px 5%;
+    padding: 100px 5%;
     align-items: center;
     background-color: #F6B400;
 }

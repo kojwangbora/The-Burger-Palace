@@ -11,6 +11,8 @@ This a user friendly website that allows customers to order thier meails are the
 * An internet
 * in a simple
 * easy-to-understand
+## Installation Process
+please click on the link to view my website:kojwangbora.github.io/the-burger-palace/
 ## Known Bugs
 no known bugs
 ## Technologies Used

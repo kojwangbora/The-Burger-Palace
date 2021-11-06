@@ -5,17 +5,18 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 200;
 }
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 25px 5%;
-}
+
 .child ul li{
     display: inline-block;
     margin-left: 150px;
     position: relative;
     line-height: 80px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 5%;
 }
 .child ul li a{
     color: black;

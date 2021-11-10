@@ -19,4 +19,4 @@ no known bugs
 ## Support and contact details
 *Reach me through email: kojwangbora254@gmail.com
 ### License
-*{Permission granted, free to any individual who would want to get a copy of this software and its document files.{year2021} **{Kojwang Elibora ochiend}**
+*{Permission granted, free to any individual who would want to get a copy of this software and its document files.{year2021} **{Kojwang Elibora ochieng}**
